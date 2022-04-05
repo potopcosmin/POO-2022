@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\40752\Desktop\POO-2022\Laborator7\main.cpp(12,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\40752\Desktop\POO-2022\Laborator7\main.cpp(16,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\40752\Desktop\POO-2022\Laborator7\main.cpp(29,16): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+  Laborator7.vcxproj -> C:\Users\40752\Desktop\POO-2022\Laborator7\Debug\Laborator7.exe
